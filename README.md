@@ -117,11 +117,13 @@ To download and install English United Kingdom pack manually, you have to access
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/en_gb/en_GB.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/en_gb/`
 
-See this screenshot
+See this screenshot:
 
 ![English United Kingdom pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **en_gb**
 
 #### Step 2: Flush cache
 
