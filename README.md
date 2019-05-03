@@ -4,6 +4,7 @@
 
 Read more [Magento 2 English United Kingdom Language Pack](https://www.mageplaza.com/magento-2-english-united-kingdom-language-pack.html)
 
+![Mageplaza English United Kingdom language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
