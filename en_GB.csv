@@ -746,7 +746,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "There are no search keywords.","There are no search keywords.",module,Magento_Backend
 "View Statistics For:","View Statistics For:",module,Magento_Backend
 "All Websites","All Websites",module,Magento_Backend
-"Reload Data","Daten neuladen",module,Magento_Backend
+"Reload Data","Reload Data",module,Magento_Backend
 "Browse Files...","Browse Files...",module,Magento_Backend
 "Magento","Magento",module,Magento_Backend
 "Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. All rights reserved.",module,Magento_Backend
