@@ -1,1 +1,4 @@
-
+"Reload Data","Reload Data",module,Magento_Backend
+"Update Items and Quantities","Update Items and Quantities",module,Magento_AdvancedCheckout
+"Update Items and Quantities","Update Items and Quantities",module,Magento_GiftRegistry
+"Update Items and Quantities","Update Items and Quantities",module,Magento_Sales
