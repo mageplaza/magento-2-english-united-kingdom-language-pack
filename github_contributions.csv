@@ -1,1 +1,435 @@
-
+"You have %1 new system message","You have %1 new system message",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","One or more of the Cache Types are invalidated: %1.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Your web server is set up incorrectly and allows unauthorised access to sensitive files. Please contact your hosting provider.",module,Magento_AdminNotification
+"Update Items and Quantities","Update Items and Quantities",module,Magento_AdvancedCheckout
+"In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalise your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
+"Shipping","Delivery",module,Magento_Backend
+"Reload Data","Reload Data",module,Magento_Backend
+"Region/State","County/Province",module,Magento_Backend
+"ZIP/Postal Code","Post Code/Zip",module,Magento_Backend
+"City","Town/City",module,Magento_Backend
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Delivery Address Entered During Checkout on PayPal Side",module,Magento_Braintree
+"City","Town/City",module,Magento_Braintree
+"State/Province","County/Province",module,Magento_Braintree
+"Zip/Postal Code","Post Code/Zip",module,Magento_Braintree
+"Shipped","Dispatched",module,Magento_Bundle
+"Qty Dispatched","Qty Dispatched",module,Magento_Bundle
+"Manage Titles (Size, Color, etc.)","Manage Titles (Size, Colour, etc.)",module,Magento_Catalog
+"Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Delivery",module,Magento_Catalog
+"Allow Multiple Boxes for Shipping.","Allow Multiple Boxes for Delivery.",module,Magento_Catalog
+"Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Delivery",module,Magento_CatalogInventory
+"City","Town/City",module,Magento_Checkout
+"State/Province","County/Province",module,Magento_Checkout
+"Zip/Postal Code","Post Code/Zip",module,Magento_Checkout
+"Shipping address is not set","Delivery address is not set",module,Magento_Checkout
+"Unable to save shipping information. Please check input data.","Unable to save delivery information. Please check input data.",module,Magento_Checkout
+"Shipping method is not applicable for empty cart","Delivery method is not applicable for empty cart",module,Magento_Checkout
+"Invalid shipping method","Invalid delivery method",module,Magento_Checkout
+"There are more than one shipping addresses.","There are more than one delivery addresses.",module,Magento_Checkout
+"Estimate Shipping and Tax","Estimate Delivery and Tax",module,Magento_Checkout
+"Shipping Address:","Delivery Address:",module,Magento_Checkout
+"Shipping Method:","Delivery Method:",module,Magento_Checkout
+"My billing and shipping address are the same","My billing and delivery address are the same",module,Magento_Checkout
+"Provided Zip/Postal Code seems to be invalid.","Provided Post/Zip Code seems to be invalid.",module,Magento_Checkout
+"Shipping","Delivery",module,Magento_Checkout
+"Please specify a shipping method.","Please specify a delivery method.",module,Magento_Checkout
+"Shipping Address","Delivery Address",module,Magento_Checkout
+"Shipping Methods","Delivery Methods",module,Magento_Checkout
+"The shipping address is missing. Set the address and try again.","The delivery address is missing. Set the address and try again.",module,Magento_Checkout
+"The shipping information was unable to be saved. Verify the input data and try again.","The delivery information was unable to be saved. Verify the input data and try again.",module,Magento_Checkout
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","The delivery method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","The delivery method is missing. Select the delivery method and try again.",module,Magento_Checkout
+"Please specify a regionId in shipping address.","Please specify a regionId in delivery address.",module,Magento_Checkout
+"City:","Town/City:",module,Magento_Company
+"State/Province:","County/Province:",module,Magento_Company
+"ZIP/Postal Code:","Post Code/Zip:",module,Magento_Company
+"City","Town/City",module,Magento_Company
+"State/Province","County/Province",module,Magento_Company
+"Please select a region, state or province.","Please select a county, state or province.",module,Magento_Company
+"ZIP/Postal Code","Post Code/Zip",module,Magento_Company
+"* Create and manage company shipping and billing addresses","* Create and manage company delivery and billing addresses",module,Magento_Company
+"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Configurable products allow customers to choose options (Ex: shirt colour). You need to create a simple product for each configuration (Ex: a product for each colour).",module,Magento_ConfigurableProduct
+"Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.","Based on your selections %1 new products will be created. Use this step to customise images and price for your new products.",module,Magento_ConfigurableProduct
+"You have not set a default shipping address.","You have not set a default delivery address.",module,Magento_Customer
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your delivery address for proper VAT calculation.",module,Magento_Customer
+"If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your delivery address for proper VAT calculation.",module,Magento_Customer
+"Shipping Address","Delivery Address",module,Magento_Customer
+"enter your shipping address for proper VAT calculation","enter your delivery address for proper VAT calculation",module,Magento_Customer
+"Change Shipping Address","Change Delivery Address",module,Magento_Customer
+"You have no default shipping address in your address book.","You have no default delivery address in your address book.",module,Magento_Customer
+"City","Town/City",module,Magento_Customer
+"State/Province","County/Province",module,Magento_Customer
+"Zip/Postal Code","Post Code/Zip",module,Magento_Customer
+"It's a default shipping address.","It's a default delivery address.",module,Magento_Customer
+"Use as my default shipping address","Use as my default delivery address",module,Magento_Customer
+"Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for delivery to multiple family members and friends)",module,Magento_Customer
+"See order and shipping status","See order and delivery status",module,Magento_Customer
+"Provided Zip/Postal Code seems to be invalid.","Provided Post Code/Zip seems to be invalid.",module,Magento_Customer
+"There is no address id in setting default shipping address.","There is no address id in setting default delivery address.",module,Magento_Customer
+"Default shipping address has been changed.","Default delivery address has been changed.",module,Magento_Customer
+"We can't change default shipping address right now.","We can't change default delivery address right now.",module,Magento_Customer
+"Set as default shipping","Set as default delivery",module,Magento_Customer
+"Set address as default shipping","Set address as default delivery",module,Magento_Customer
+"Are you sure you want to set the address as default shipping address?","Are you sure you want to set the address as default delivery address?",module,Magento_Customer
+"The customer does not have default shipping address","The customer does not have default delivery address",module,Magento_Customer
+"City","Town/City",module,Magento_CustomerCustomAttributes
+"State/Province","County/Province",module,Magento_CustomerCustomAttributes
+"Zip/Postal Code","Post Code/Zip",module,Magento_CustomerCustomAttributes
+"This is your default shipping address.","This is your default delivery address.",module,Magento_CustomerCustomAttributes
+"Use as my default shipping address","Use as my default delivery address",module,Magento_CustomerCustomAttributes
+"Customer Address %1 is set as default shipping address and can not be deleted","Customer Address %1 is set as default delivery address and can not be deleted",module,Magento_CustomerGraphQl
+"Shipping","Delivery",module,Magento_CustomerSegment
+"Has State/Province","Has County/Province",module,Magento_CustomerSegment
+"If Customer Address %1 State/Province specified","If Customer Address %1 County/Province specified",module,Magento_CustomerSegment
+"State/Province","County/Province",module,Magento_CustomerSegment
+"Geolocation inconsistencies. The customer’s email domain, phone number, billing address, shipping address, or IP address is suspicious","Geolocation inconsistencies. The customer’s email domain, phone number, billing address, delivery address, or IP address is suspicious",module,Magento_Cybersource
+"Unverifiable address. The billing or shipping address cannot be verified","Unverifiable address. The billing or delivery address cannot be verified",module,Magento_Cybersource
+"Marked as suspect. The billing or shipping address is similar to an address previously marked as suspect","Marked as suspect. The billing or delivery address is similar to an address previously marked as suspect",module,Magento_Cybersource
+"Gift Order. The street address, city, state, or country of the billing and shipping addresses do not correlate","Gift Order. The street address, city, state, or country of the billing and delivery addresses do not correlate",module,Magento_Cybersource
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Select this to allow DHL to optimize delivery charges by splitting the order if it exceeds %1 %2.",module,Magento_Dhl
+"Zero shipping charge for '%1'","Zero delivery charge for '%1'",module,Magento_Dhl
+"Unable to retrieve shipping label","Unable to retrieve delivery label",module,Magento_Dhl
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Select this to allow DHL to optimize delivery charges by splitting the order if it exceeds 70 kg.",module,Magento_Dhl
+"Enable Free Shipping Threshold","Enable Free Delivery Threshold",module,Magento_Dhl
+"Free Shipping Amount Threshold","Free Delivery Amount Threshold",module,Magento_Dhl
+"Ship to Applicable Countries","Deliver to Applicable Countries",module,Magento_Dhl
+"Ship to Specific Countries","Deliver to Specific Countries",module,Magento_Dhl
+"State/Province","County/Province",module,Magento_Directory
+"Zip/Postal Code is Optional for","Post Code/Zip is Optional for",module,Magento_Directory
+"Shipped","Dispatched",module,Magento_Downloadable
+"Region/State","County/Province",module,Magento_Email
+"Zip/Postal Code","Post Code/Zip",module,Magento_Email
+"City","Town/City",module,Magento_Email
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your delivery carrier for maximum supported delivery weight)",module,Magento_Fedex
+"Enable Free Shipping Threshold","Enable Free Delivery Threshold",module,Magento_Fedex
+"Free Shipping Amount Threshold","Free Delivery Amount Threshold",module,Magento_Fedex
+"Ship to Applicable Countries","Deliver to Applicable Countries",module,Magento_Fedex
+"Ship to Specific Countries","Deliver to Specific Countries",module,Magento_Fedex
+"Update Items and Quantities","Update Items and Quantities",module,Magento_GiftRegistry
+"State/Province","County/Province",module,Magento_GiftRegistry
+"Ship to the recipient's address.","Deliver to the recipient's address.",module,Magento_GiftRegistry
+"Shipping Address","Delivery Address",module,Magento_GiftRegistry
+"Select a shipping address from your address book or enter a new address.","Select a delivery address from your address book or enter a new address.",module,Magento_GiftRegistry
+"City","Town/City",module,Magento_GiftRegistry
+"Zip/Postal Code","Post Code/Zip",module,Magento_GiftRegistry
+"Use the gift registry shipping address","Use the gift registry delivery address",module,Magento_GiftRegistry
+"Customize and Add to Gift Registry","Customise and Add to Gift Registry",module,Magento_GiftRegistry
+"Ship to Recipient Address","Deliver to Recipient Address",module,Magento_GiftRegistry
+"Use gift registry shipping address","Use gift registry delivery address",module,Magento_GiftRegistry
+"Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","Conversion Colour value is not valid ""%1"". Please set hexadecimal 6-digit value.",module,Magento_GoogleAdwords
+"Conversion Color","Conversion Colour",module,Magento_GoogleAdwords
+"Shipping address is not defined for instance purchase.","Delivery address is not defined for instance purchase.",module,Magento_InstantPurchase
+"Shipping method is not defined for instance purchase.","Delivery method is not defined for instance purchase.",module,Magento_InstantPurchase
+"Specified shipping method is not available.","Specified delivery method is not available.",module,Magento_InstantPurchase
+"Appropriate shipping method is not available.","Appropriate delivery method is not available.",module,Magento_InstantPurchase
+"Shipping Address","Delivery Address",module,Magento_InstantPurchase
+"Shipping Method","Delivery Method",module,Magento_InstantPurchase
+"Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognized as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.","Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognised as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.",module,Magento_Marketplace
+"Ship to Multiple Addresses","Deliver to Multiple Addresses",module,Magento_Multishipping
+"Shipping Methods","Delivery Methods",module,Magento_Multishipping
+"Edit Shipping Address","Edit Delivery Address",module,Magento_Multishipping
+"Create Shipping Address","Create Delivery Address",module,Magento_Multishipping
+"Maximum qty allowed for Shipping to multiple addresses is %1","Maximum qty allowed for Delivery to multiple addresses is %1",module,Magento_Multishipping
+"Please check shipping address information.","Please check delivery address information.",module,Magento_Multishipping
+"Please select shipping methods for all addresses.","Please select delivery methods for all addresses.",module,Magento_Multishipping
+"Please check shipping addresses information.","Please check delivery addresses information.",module,Magento_Multishipping
+"Please specify shipping methods for all addresses.","Please specify delivery methods for all addresses.",module,Magento_Multishipping
+"Shipping Information","Delivery Information",module,Magento_Multishipping
+"Default Shipping","Default Delivery",module,Magento_Multishipping
+"Please select a shipping address for applicable items.","Please select a delivery address for applicable items.",module,Magento_Multishipping
+"A shipping selection is not applicable.","A delivery selection is not applicable.",module,Magento_Multishipping
+"Go to Shipping Information","Go to Delivery Information",module,Magento_Multishipping
+"Back to Shipping Information","Back to Delivery Information",module,Magento_Multishipping
+"Shipping is not applicable.","Delivery is not applicable.",module,Magento_Multishipping
+"Shipping To","Delivery To",module,Magento_Multishipping
+"Shipping Method","Delivery Method",module,Magento_Multishipping
+"No shipping required.","No delivery required.",module,Magento_Multishipping
+"Allow Shipping to Multiple Addresses","Allow Delivery to Multiple Addresses",module,Magento_Multishipping
+"Maximum Qty Allowed for Shipping to Multiple Addresses","Maximum Qty Allowed for Delivery to Multiple Addresses",module,Magento_Multishipping
+"Select Shipping Method","Select Delivery Method",module,Magento_Multishipping
+"Ship to:","Deliver to:",module,Magento_Multishipping
+"The maximum quantity can't be more than %1 when shipping to multiple addresses. Change the quantity and try again.","The maximum quantity can't be more than %1 when delivery to multiple addresses. Change the quantity and try again.",module,Magento_Multishipping
+"Verify the shipping address information and continue.","Verify the delivery address information and continue.",module,Magento_Multishipping
+"Set shipping methods for all addresses. Verify the shipping methods and try again.","Set delivery methods for all addresses. Verify the delivery methods and try again.",module,Magento_Multishipping
+"This payment method can't be used for shipping to multiple addresses. Change the payment method and try again.","This payment method can't be used for delivery to multiple addresses. Change the payment method and try again.",module,Magento_Multishipping
+"Shipping & Handling","Delivery & Handling",module,Magento_NegotiableQuote
+"Shipping method cannot be set for a virtual quote.","Delivery method cannot be set for a virtual quote.",module,Magento_NegotiableQuote
+"Cannot add the shipping method. You must add a shipping address into the quote first.","Cannot add the delivery method. You must add a delivery address into the quote first.",module,Magento_NegotiableQuote
+"Requested shipping method is not found. Row ID: ShippingMethodID = %ShippingMethodID.","Requested delivery method is not found. Row ID: ShippingMethodID = %ShippingMethodID.",module,Magento_NegotiableQuote
+"Unable to update shipping address","Unable to update delivery address",module,Magento_NegotiableQuote
+"Quote taxes have been recalculated because the buyer added or changed the shipping address. You may want to review the offer amount.","Quote taxes have been recalculated because the buyer added or changed the delivery address. You may want to review the offer amount.",module,Magento_NegotiableQuote
+"Buyer added or changed the shipping address. You may want to offer the shipping price or / and review the offer amount.","Buyer added or changed the delivery address. You may want to offer the delivery price or / and review the offer amount.",module,Magento_NegotiableQuote
+"Quote taxes have been recalculated because you have added or changed the shipping address. The negotiated price is no longer valid. Please re-submit the quote to Seller.","Quote taxes have been recalculated because you have added or changed the delivery address. The negotiated price is no longer valid. Please re-submit the quote to Seller.",module,Magento_NegotiableQuote
+"You have added or changed the shipping address on this quote. Please re-submit the quote to Seller.","You have added or changed the delivery address on this quote. Please re-submit the quote to Seller.",module,Magento_NegotiableQuote
+"Cannot set the shipping price. You must select a shipping method first.","Cannot set the delivery price. You must select a delivery method first.",module,Magento_NegotiableQuote
+"Shipping Information","Delivery Information",module,Magento_NegotiableQuote
+"Shipping Methods & Price","Delivery Methods & Price",module,Magento_NegotiableQuote
+"Shipping Address","Delivery Address",module,Magento_NegotiableQuote
+"You have no shipping address for this quote.","You have no delivery address for this quote.",module,Magento_NegotiableQuote
+"Proposed Shipping Price","Proposed Delivery Price",module,Magento_NegotiableQuote
+"Click to change shipping method","Click to change delivery method",module,Magento_NegotiableQuote
+"Get shipping methods and rates","Get delivery methods and rates",module,Magento_NegotiableQuote
+"Shipping address","Delivery address",module,Magento_NegotiableQuote
+"Proposed shipping price","Proposed delivery price",module,Magento_NegotiableQuote
+"Shipping method","Delivery method",module,Magento_NegotiableQuote
+"Shipping Method","Delivery Method",module,Magento_NegotiableQuote
+"No shipping information available","No delivery information available",module,Magento_NegotiableQuote
+"Select a shipping address from your address book.","Select a delivery address from your address book.",module,Magento_NegotiableQuote
+"No shipping information available.","No delivery information available.",module,Magento_NegotiableQuote
+"Region/State","County/Province",module,Magento_OfflineShipping
+"Zip/Postal Code","Post Code/Zip",module,Magento_OfflineShipping
+"Please correct Region/State ""%1"" in the Row #%2.","Please correct County/Province ""%1"" in the Row #%2.",module,Magento_OfflineShipping
+"Please correct Shipping Price ""%1"" in the Row #%2.","Please correct Delivery Price ""%1"" in the Row #%2.",module,Magento_OfflineShipping
+"For shipment with matching items","For delivery with matching items",module,Magento_OfflineShipping
+"Ship to Applicable Countries","Deliver to Applicable Countries",module,Magento_OfflineShipping
+"Ship to Specific Countries","Deliver to Specific Countries",module,Magento_OfflineShipping
+"Free Shipping","Free Delivery",module,Magento_OfflineShipping
+"Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")","Duplicate Row #%1 (Country ""%2"", County/Province ""%3"", Zip ""%4"" and Value ""%5"")",module,Magento_OfflineShipping
+"The ""%1"" shipping price in row number ""%2"" is incorrect. Verify the shipping price and try again.","The ""%1"" delivery price in row number ""%2"" is incorrect. Verify the delivery price and try again.",module,Magento_OfflineShipping
+"A match of the Shipping Address City, State, and Postal Code failed.","A match of the Delivery Address Town, County, and Post Code failed.",module,Magento_Paypal
+"Matched Address only (no ZIP)","Matched Address only (no postcode)",module,Magento_Paypal
+"Matched Address only (no ZIP) International","Matched Address only (no postcode) International",module,Magento_Paypal
+"Matched Postal Code only (no Address)","Matched Post Code only (no Address)",module,Magento_Paypal
+"Header (center)","Header (centre)",module,Magento_Paypal
+"Please select a shipping method...","Please select a delivery method...",module,Magento_Paypal
+"Please update order data to get shipping methods and rates","Please update order data to get delivery methods and rates",module,Magento_Paypal
+"The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%","The PayPal Advertising Programme has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%",module,Magento_Paypal
+"If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","If this option is enabled, customer can change delivery address and delivery method on PayPal website. In live mode works via HTTPS protocol only.",module,Magento_Paypal
+"Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","Notice that PayPal can handle up to 10 delivery options. That is why Magento will transfer only first 10 cheapest delivery options if there are more than 10 available.",module,Magento_Paypal
+"Header Background Color","Header Background Colour",module,Magento_Paypal
+"The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.","The background colour for the header of the checkout page. Case-insensitive six-character HTML hexadecimal colour code in ASCII.",module,Magento_Paypal
+"Header Border Color","Header Border Colour",module,Magento_Paypal
+"Page Background Color","Page Background Colour",module,Magento_Paypal
+"The background color for the checkout page around the header and payment form.","The background colour for the checkout page around the header and payment form.",module,Magento_Paypal
+"Matched whole nine-didgit ZIP (no Address)","Matched whole nine-digit ZIP (no Address)",module,Magento_Paypal
+"Customize Smart Buttons","Customise Smart Buttons",module,Magento_Paypal
+"Customize Button","Customise Button",module,Magento_Paypal
+"Color","Colour",module,Magento_Paypal
+"This shipping method is not available. To use this shipping method, please contact us.","This delivery method is not available. To use this delivery method, please contact us.",module,Magento_Quote
+"Only 1 shipping assignment can be set","Only 1 delivery assignment can be set",module,Magento_Quote
+"Please check the shipping address information. %1","Please check the delivery address information. %1",module,Magento_Quote
+"Please specify a shipping method.","Please specify a delivery method.",module,Magento_Quote
+"Cannot set shipping method. %1","Cannot set delivery method. %1",module,Magento_Quote
+"Please check the shipping address information.","Please check the delivery address information.",module,Magento_Quote
+"The shipping method is missing. Select the shipping method and try again.","The delivery method is missing. Select the delivery method and try again.",module,Magento_Quote
+"The shipping address is missing. Set the address and try again.","The delivery address is missing. Set the address and try again.",module,Magento_Quote
+"The Cart includes virtual product(s) only, so a shipping address is not used.","The Basket includes virtual product(s) only, so a delivery address is not used.",module,Magento_Quote
+"The shipping method can't be set. %1","The delivery method can't be set. %1",module,Magento_Quote
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","The delivery method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Quote
+"Using the ""use_for_shipping"" option with multishipping is not possible.","Using the ""use_for_shipping"" option with multi-delivery is not possible.",module,Magento_QuoteGraphQl
+"You cannot specify multiple shipping addresses.","You cannot specify multiple delivery addresses.",module,Magento_QuoteGraphQl
+"The shipping address must contain either ""customer_address_id"" or ""address"".","The delivery address must contain either ""customer_address_id"" or ""address"".",module,Magento_QuoteGraphQl
+"The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","The delivery address cannot contain ""customer_address_id"" and ""address"" at the same time.",module,Magento_QuoteGraphQl
+"You cannot specify multiple shipping methods.","You cannot specify multiple delivery methods.",module,Magento_QuoteGraphQl
+"payment and shipping information to skip tedious checkout steps.</p>","payment and delivery information to skip tedious checkout steps.</p>",module,Magento_ReleaseNotification
+"Logged-in customers can use previously-stored payment credentials and shipping information,module","Logged-in customers can use previously-stored payment credentials and delivery information",module,Magento_ReleaseNotification
+"<li><span>Shipping to the customer’s default address using the lowest cost, available shipping","<li><span>Shipping to the customer’s default address using the lowest cost, available delivery",module,Magento_ReleaseNotification
+"Total Shipped Report","Total Dispatched Report",module,Magento_Reports
+"You created a shipping label.","You created a delivery label.",module,Magento_Rma
+"We don't recognize or support the file extension in shipment %1.","We don't recognise or support the file extension in delivery %1.",module,Magento_Rma
+"Something went wrong creating a shipping label.","Something went wrong creating a delivery label.",module,Magento_Rma
+"We cannot display the available shipping methods.","We cannot display the available delivery methods.",module,Magento_Rma
+"We need more information to create your shipping label(s). Please verify your store information and shipping settings.","We need more information to create your delivery label(s). Please verify your store information and delivery settings.",module,Magento_Rma
+"Change shipping method.","Change delivery method.",module,Magento_Rma
+"No authorized items or allowed shipping methods","No authorized items or allowed delivery methods",module,Magento_Rma
+"Enabled when authorized items require a new shipment.","Enabled when authorized items require a new delivery.",module,Magento_Rma
+"Track this shipment","Track this delivery",module,Magento_Rma
+"City","Town/City",module,Magento_Rma
+"State/Province","County/Province",module,Magento_Rma
+"ZIP/Postal Code","Post Code/Zip",module,Magento_Rma
+"You created the invoice and shipment.","You created the invoice and delivery.",module,Magento_Sales
+"Please specify a shipping method.","Please specify a delivery method.",module,Magento_Sales
+"Maximum shipping amount allowed to refund is: %1","Maximum delivery amount allowed to refund is: %1",module,Magento_Sales
+"Shipped","Dispatched",module,Magento_Sales
+"Ship to:","Deliver to:",module,Magento_Sales
+"Shipping Method:","Delivery Method:",module,Magento_Sales
+"Total Shipping Charges","Total Delivery Charges",module,Magento_Sales
+"We don't recognize the draw line data. Please define the ""lines"" array.","We don't recognise the draw line data. Please define the ""lines"" array.",module,Magento_Sales
+"We cannot register an existing shipment","We cannot register an existing delivery",module,Magento_Sales
+"Could not delete the shipment comment.","Could not delete the delivery comment.",module,Magento_Sales
+"Could not save the shipment comment.","Could not save the delivery comment.",module,Magento_Sales
+"Could not delete the shipment item.","Could not delete the delivery item.",module,Magento_Sales
+"Could not save the shipment item.","Could not save the delivery item.",module,Magento_Sales
+"Parent shipment cannot be loaded for track object.","Parent delivery cannot be loaded for track object.",module,Magento_Sales
+"Could not delete the shipment tracking.","Could not delete the delivery tracking.",module,Magento_Sales
+"Could not save the shipment tracking.","Could not save the delivery tracking.",module,Magento_Sales
+"Order Id is required for shipment document","Order Id is required for delivery document",module,Magento_Sales
+"You can't create a shipment without products.","You can't create a delivery without products.",module,Magento_Sales
+"The shipment contains product SKU ""%1"" that is not part of the original order.","The delivery contains product SKU ""%1"" that is not part of the original order.",module,Magento_Sales
+"The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","The quantity to delivery must not be greater than the un-delivered quantity for product SKU ""%1"".",module,Magento_Sales
+"Could not delete shipment","Could not delete delivery",module,Magento_Sales
+"Could not save shipment","Could not save delivery",module,Magento_Sales
+"A shipment cannot be created when an order has a status of %1","A delivery cannot be created when an order has a status of %1",module,Magento_Sales
+"The order does not allow a shipment to be created.","The order does not allow a delivery to be created.",module,Magento_Sales
+"City","Town/City",module,Magento_Sales
+"State/Province","County/Province",module,Magento_Sales
+"Zip/Postal Code","Post Code/Zip",module,Magento_Sales
+"We cannot create an empty shipment.","We cannot create an empty delivery.",module,Magento_Sales
+"Could not save a shipment, see error log for details","Could not save a delivery, see error log for details",module,Magento_Sales
+"Changing address information will not recalculate shipping, tax or other order amount.","Changing address information will not recalculate delivery, tax or other order amount.",module,Magento_Sales
+"Payment &amp; Shipping Information","Payment &amp; Delivery Information",module,Magento_Sales
+"Update Items and Quantities","Update Items and Quantities",module,Magento_Sales
+"Click to change shipping method","Click to change delivery method",module,Magento_Sales
+"Get shipping methods and rates","Get delivery methods and rates",module,Magento_Sales
+"Payment &amp; Shipping Method","Payment &amp; Delivery Method",module,Magento_Sales
+"Shipping Information","Delivery Information",module,Magento_Sales
+"Shipping &amp; Handling","Delivery &amp; Handling",module,Magento_Sales
+"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and delivery types do not match for some items on this order. You can create a delivery only after creating the invoice.",module,Magento_Sales
+"Shipped By","Dispatched By",module,Magento_Sales
+"Billing ZIP Code","Billing Post/Zip Code",module,Magento_Sales
+"No shipping information available","No delivery information available",module,Magento_Sales
+"Qty Shipped","Qty Dispatched",module,Magento_Sales
+"Shipping Info","Delivery Info",module,Magento_Sales
+"Once your package ships we will send you a tracking number.","Once your package is despatched we will send you a tracking number.",module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.","Once your package is despatched we will send an email with a link to track your order.",module,Magento_Sales
+"Your %store_name order has shipped","Your %store_name order has been despatched",module,Magento_Sales
+"Your shipping confirmation is below. Thank you again for your business.","Your delivery confirmation is below. Thank you again for your business.",module,Magento_Sales
+"Your Shipment #%shipment_id for Order #%order_id","Your Delivery #%shipment_id for Order #%order_id",module,Magento_Sales
+"Update to your %store_name shipment","Update to your %store_name delivery",module,Magento_Sales
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choose whether a customer IP is shown in orders, invoices, delivery, and credit memos.",module,Magento_Sales
+"ZIP/Post Code","Post Code/Zip",module,Magento_Sales
+"Print Shipping Labels","Print Delivery Labels",module,Magento_Sales
+"Shipping and Handling","Delivery and Handling",module,Magento_Sales
+"The invoice and the shipment  have been created. The shipping label cannot be created now.","The invoice and the delivery  have been created. The delivery label cannot be created now.",module,Magento_Sales
+"We found an invalid quantity to ship for item ""%1"".","We found an invalid quantity to  despatch ""%1"".",module,Magento_Sales
+"The shipping method is missing. Select the shipping method and try again.","The delivery method is missing. Select the delivery method and try again.",module,Magento_Sales
+"The shipment couldn't be deleted.","The delivery couldn't be deleted.",module,Magento_Sales
+"The shipment couldn't be saved.","The delivery couldn't be saved.",module,Magento_Sales
+"You can not refund shipping if there is no shipping amount.","You can not refund delivery if there is no delivery amount.",module,Magento_Sales
+"Shipping Address","Delivery Address",module,Magento_SalesArchive
+"Shipping Information","Delivery Information",module,Magento_SalesArchive
+"Shipping & Handling","Delivery & Handling",module,Magento_SalesArchive
+"Print Shipping Labels","Print Delivery Labels",module,Magento_SalesArchive
+"Shipping and Handling","Delivery and Handling",module,Magento_SalesArchive
+"Shipping Method","Delivery Method",module,Magento_SalesRule
+"Shipping Postcode","Delivery Postcode",module,Magento_SalesRule
+"Shipping Region","Delivery Region",module,Magento_SalesRule
+"Shipping State/Province","Delivery County/Province",module,Magento_SalesRule
+"Shipping Country","Delivery Country",module,Magento_SalesRule
+"Discount amount is applied to subtotal and shipping amount separately","Discount amount is applied to subtotal and delivery amount separately",module,Magento_SalesRule
+"Apply to Shipping Amount","Apply to Delivery Amount",module,Magento_SalesRule
+"Apply to Shipping Amount","Apply to Delivery Amount",module,Magento_SalesRuleStaging
+"Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Delivery",module,Magento_ScalableInventory
+"Allow Multiple Boxes for Shipping.","Allow Multiple Boxes for Delivery.",module,Magento_ScalableInventory
+"State/Province","County/Province",module,Magento_SharedCatalog
+"New Shipment for Order #%1","New Delivery for Order #%1",module,Magento_Shipping
+"Submit Shipment","Submit Delivery",module,Magento_Shipping
+"Are you sure you want to send a Shipment email to customer?","Are you sure you want to send a Delivery email to customer?",module,Magento_Shipping
+"the shipment email was sent","the delivery email was sent",module,Magento_Shipping
+"the shipment email is not sent","the delivery email is not sent",module,Magento_Shipping
+"Shipment #%1 | %3 (%2)","Delivery #%1 | %3 (%2)",module,Magento_Shipping
+"Create Shipping Label...","Create Delivery Label...",module,Magento_Shipping
+"Print Shipping Label","Print Delivery Label",module,Magento_Shipping
+"About Your Shipment","About Your Delivery",module,Magento_Shipping
+"Shipments","Delivery",module,Magento_Shipping
+"You created the shipping label.","You created the delivery label.",module,Magento_Shipping
+"An error occurred while creating shipping label.","An error occurred while creating delivery label.",module,Magento_Shipping
+"Cannot send shipment information.","Cannot send delivery information.",module,Magento_Shipping
+"There are no shipping labels related to selected orders.","There are no delivery labels related to selected orders.",module,Magento_Shipping
+"New Shipment","New Delivery",module,Magento_Shipping
+"""Shipment Document Validation Error(s):\n"" .","""Delivery Document Validation Error(s):\n"" .",module,Magento_Shipping
+"The shipment has been created.","The delivery has been created.",module,Magento_Shipping
+"Cannot save shipment.","Cannot save delivery.",module,Magento_Shipping
+"Cannot do shipment for the order separately from invoice.","Cannot do delivery for the order separately from invoice.",module,Magento_Shipping
+"Cannot do shipment for the order.","Cannot do delivery for the order.",module,Magento_Shipping
+"There are no shipping labels related to selected shipments.","There are no delivery labels related to selected delivery.",module,Magento_Shipping
+"The delivery module is not available.","The delivery module is not available.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","This delivery method is not available. Please specify the zip code.",module,Magento_Shipping
+"Girth","Depth",module,Magento_Shipping
+"Shipping labels is not available.","Delivery labels is not available.",module,Magento_Shipping
+"Shipping Information","Delivery Information",module,Magento_Shipping
+"Total Shipping Charges","Total Delivery Charges",module,Magento_Shipping
+"Qty to Ship","Qty to Deliver",module,Magento_Shipping
+"Ship","Deliver",module,Magento_Shipping
+"Shipment Total","Delivery Total",module,Magento_Shipping
+"Shipment Comments","Delivery Comments",module,Magento_Shipping
+"Shipment Options","Delivery Options",module,Magento_Shipping
+"Email Copy of Shipment","Email Copy of Delivery",module,Magento_Shipping
+"Shipping &amp; Handling Information","Delivery &amp; Handling Information",module,Magento_Shipping
+"No shipping information available","No delivery information available",module,Magento_Shipping
+"Shipping and Tracking Information","Delivery and Tracking Information",module,Magento_Shipping
+"Track this shipment","Track this delivery",module,Magento_Shipping
+"Items Shipped","Items Dispatched",module,Magento_Shipping
+"Shipment History","Delivery History",module,Magento_Shipping
+"Qty Shipped","Qty Dispatched",module,Magento_Shipping
+"Print All Shipments","Print All Deliveries",module,Magento_Shipping
+"Shipment #","Delivery #",module,Magento_Shipping
+"Print Shipment","Print Delivery",module,Magento_Shipping
+"There is no tracking available for this shipment.","There is no tracking available for this delivery.",module,Magento_Shipping
+"See our Shipping Policy","See our Delivery Policy",module,Magento_Shipping
+"Shipping Settings Section","Delivery Settings Section",module,Magento_Shipping
+"Shipping Policy Parameters Section","Delivery Policy Parameters Section",module,Magento_Shipping
+"Shipping Methods Section","Delivery Methods Section",module,Magento_Shipping
+"Shipping Settings","Delivery Settings",module,Magento_Shipping
+"Region/State","County/Region",module,Magento_Shipping
+"ZIP/Postal Code","Post Code/Zip",module,Magento_Shipping
+"City","Town/City",module,Magento_Shipping
+"Shipping Policy Parameters","Delivery Policy Parameters",module,Magento_Shipping
+"Apply custom Shipping Policy","Apply custom Delivery Policy",module,Magento_Shipping
+"Shipping Policy","Delivery Policy",module,Magento_Shipping
+"Shipping Methods","Delivery Methods",module,Magento_Shipping
+"Track All Shipments","Track All Deliveries",module,Magento_Shipping
+"You sent the shipment.","You sent the delivery.",module,Magento_Shipping
+"Shipped or billed on:","Dispatched or billed on:",module,Magento_Shipping
+"Shipping labels can't be created. Verify that the store information and settings are complete and try again.","Delivery labels can't be created. Verify that the store information and settings are complete and try again.",module,Magento_Shipping
+"For Multishipping","For Multi-delivery",module,Magento_Support
+"Shipping Methods","Delivery Methods",module,Magento_Support
+"Choose a color","Choose a colour",module,Magento_Swatches
+"Zip/Post is Range","Post/Zip is Range",module,Magento_Tax
+"Zip/Post Code","Post Code/Zip",module,Magento_Tax
+"Shipping Incl. Tax (%1)","Delivery Incl. Tax (%1)",module,Magento_Tax
+"Shipping Excl. Tax (%1)","Delivery Excl. Tax (%1)",module,Magento_Tax
+"Shipping & Handling (Excl.Tax)","Delivery & Handling (Excl.Tax)",module,Magento_Tax
+"Shipping & Handling (Incl.Tax)","Delivery & Handling (Incl.Tax)",module,Magento_Tax
+"Shipping Address","Delivery Address",module,Magento_Tax
+"Shipping Origin","Delivery Origin",module,Magento_Tax
+"Shipping (Excl. Tax)","Delivery (Excl. Tax)",module,Magento_Tax
+"Shipping (Incl. Tax)","Delivery (Incl. Tax)",module,Magento_Tax
+"Tax Class for Shipping","Tax Class for Delivery",module,Magento_Tax
+"Shipping Prices","Delivery Prices",module,Magento_Tax
+"This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","This sets whether delivery amounts entered from Magento Admin or obtained from gateways include tax.",module,Magento_Tax
+"Display Shipping Prices","Display Delivery Prices",module,Magento_Tax
+"Display Shipping Amount","Display Delivery Amount",module,Magento_Tax
+"State/Region","County/Region",module,Magento_Tax
+"Zip/Post Code","Post Code/Zip",module,Magento_TaxImportExport
+"Zip/Post is Range","Post is Range/Zip",module,Magento_TaxImportExport
+"Store alternative addresses (for shipping to multiple family members and friends)","Store alternative addresses (for delivery to multiple family members and friends)",module,Magento_Theme
+"We don't recognize this file extension.","We don't recognise this file extension.",module,Magento_Theme
+"Wrong color format. Please specify color in HEX, RGBa, HSVa, HSLa or use color name.","Wrong colour format. Please specify colour in HEX, RGBa, HSVa, HSLa or use colour name.",module,Magento_Ui
+"Cannot retrieve shipping rates","Cannot retrieve delivery rates",module,Magento_Ups
+"Enable Free Shipping Threshold","Enable Free Delivery Threshold",module,Magento_Ups
+"Free Shipping Amount Threshold","Free Delivery Amount Threshold",module,Magento_Ups
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your delivery carrier for maximum supported delivery weight)",module,Magento_Ups
+"Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Minimum Package Weight (Please consult your delivery carrier for minimum supported delivery weight)",module,Magento_Ups
+"Origin of the Shipment","Origin of the Delivery",module,Magento_Ups
+"Ship to Applicable Countries","Deliver to Applicable Countries",module,Magento_Ups
+"Ship to Specific Countries","Deliver to Specific Countries",module,Magento_Ups
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your delivery carrier for maximum supported delivery weight)",module,Magento_Usps
+"Enable Free Shipping Threshold","Enable Free Delivery Threshold",module,Magento_Usps
+"Free Shipping Amount Threshold","Free Delivery Amount Threshold",module,Magento_Usps
+"Ship to Applicable Countries","Deliver to Applicable Countries",module,Magento_Usps
+"Ship to Specific Countries","Deliver to Specific Countries",module,Magento_Usps
+"Sort by color","Sort by colour",module,Magento_VisualMerchandiser
+"Color Attribute Code","Colour Attribute Code",module,Magento_VisualMerchandiser
+"Color Order","Colour Order",module,Magento_VisualMerchandiser
+"Each color being on a separate row.","Each colour being on a separate row.",module,Magento_VisualMerchandiser
+"For shipping to multiple family members and friends","For delivery to multiple family members and friends",theme,frontend/Magento/luma
+"Shipping Info","Delivery Info",theme,frontend/Magento/luma
+"Shipping Method","Delivery Method",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Once your package is despatched we will send you a tracking number.",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Your %store_name order has been despatched",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Your delivery confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Your Delivery #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Update to your %store_name delivery",theme,frontend/Magento/luma
+"Carrier with such method not found: %1, %2","Courier with such method not found: %1, %2",module,Magento_Checkout
+"Carrier Title","Courier Title",module,Magento_Checkout
+"Carrier with such method not found: %1, %2","Courier with such method not found: %1, %2",module,Magento_Quote
+"Carrier/Method","Courier/Method",module,Magento_Reports
+"Carrier","Courier",module,Magento_Rma
+"Carrier","Courier",module,Magento_Shipping
+"Carrier:","Courier:",module,Magento_Shipping
+"Shopping Cart Items","Shopping Basket Items",module,Magento_AdvancedCheckout
+"Update Cart","Update Basket",module,Magento_Checkout
