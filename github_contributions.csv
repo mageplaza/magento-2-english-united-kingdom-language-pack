@@ -15,8 +15,8 @@
 "City","Town/City",module,Magento_Braintree
 "State/Province","County/Province",module,Magento_Braintree
 "Zip/Postal Code","Post Code/Zip",module,Magento_Braintree
-"Shipped","Dispatched",module,Magento_Bundle
-"Qty Dispatched","Qty Dispatched",module,Magento_Bundle
+"Shipped","Despatched",module,Magento_Bundle
+"Qty Despatched","Qty Despatched",module,Magento_Bundle
 "Manage Titles (Size, Color, etc.)","Manage Titles (Size, Colour, etc.)",module,Magento_Catalog
 "Allow Multiple Boxes for Shipping","Allow Multiple Boxes for Delivery",module,Magento_Catalog
 "Allow Multiple Boxes for Shipping.","Allow Multiple Boxes for Delivery.",module,Magento_Catalog
@@ -99,7 +99,7 @@
 "Ship to Specific Countries","Deliver to Specific Countries",module,Magento_Dhl
 "State/Province","County/Province",module,Magento_Directory
 "Zip/Postal Code is Optional for","Post Code/Zip is Optional for",module,Magento_Directory
-"Shipped","Dispatched",module,Magento_Downloadable
+"Shipped","Despatched",module,Magento_Downloadable
 "Region/State","County/Province",module,Magento_Email
 "Zip/Postal Code","Post Code/Zip",module,Magento_Email
 "City","Town/City",module,Magento_Email
@@ -227,7 +227,7 @@
 "payment and shipping information to skip tedious checkout steps.</p>","payment and delivery information to skip tedious checkout steps.</p>",module,Magento_ReleaseNotification
 "Logged-in customers can use previously-stored payment credentials and shipping information,module","Logged-in customers can use previously-stored payment credentials and delivery information",module,Magento_ReleaseNotification
 "<li><span>Shipping to the customer’s default address using the lowest cost, available shipping","<li><span>Shipping to the customer’s default address using the lowest cost, available delivery",module,Magento_ReleaseNotification
-"Total Shipped Report","Total Dispatched Report",module,Magento_Reports
+"Total Shipped Report","Total Despatched Report",module,Magento_Reports
 "You created a shipping label.","You created a delivery label.",module,Magento_Rma
 "We don't recognize or support the file extension in shipment %1.","We don't recognise or support the file extension in delivery %1.",module,Magento_Rma
 "Something went wrong creating a shipping label.","Something went wrong creating a delivery label.",module,Magento_Rma
@@ -243,7 +243,7 @@
 "You created the invoice and shipment.","You created the invoice and delivery.",module,Magento_Sales
 "Please specify a shipping method.","Please specify a delivery method.",module,Magento_Sales
 "Maximum shipping amount allowed to refund is: %1","Maximum delivery amount allowed to refund is: %1",module,Magento_Sales
-"Shipped","Dispatched",module,Magento_Sales
+"Shipped","Despatched",module,Magento_Sales
 "Ship to:","Deliver to:",module,Magento_Sales
 "Shipping Method:","Delivery Method:",module,Magento_Sales
 "Total Shipping Charges","Total Delivery Charges",module,Magento_Sales
@@ -278,10 +278,10 @@
 "Shipping Information","Delivery Information",module,Magento_Sales
 "Shipping &amp; Handling","Delivery &amp; Handling",module,Magento_Sales
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and delivery types do not match for some items on this order. You can create a delivery only after creating the invoice.",module,Magento_Sales
-"Shipped By","Dispatched By",module,Magento_Sales
+"Shipped By","Despatched By",module,Magento_Sales
 "Billing ZIP Code","Billing Post/Zip Code",module,Magento_Sales
 "No shipping information available","No delivery information available",module,Magento_Sales
-"Qty Shipped","Qty Dispatched",module,Magento_Sales
+"Qty Shipped","Qty Despatched",module,Magento_Sales
 "Shipping Info","Delivery Info",module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Once your package is despatched we will send you a tracking number.",module,Magento_Sales
 "Once your package ships we will send an email with a link to track your order.","Once your package is despatched we will send an email with a link to track your order.",module,Magento_Sales
@@ -352,9 +352,9 @@
 "No shipping information available","No delivery information available",module,Magento_Shipping
 "Shipping and Tracking Information","Delivery and Tracking Information",module,Magento_Shipping
 "Track this shipment","Track this delivery",module,Magento_Shipping
-"Items Shipped","Items Dispatched",module,Magento_Shipping
+"Items Shipped","Items Despatched",module,Magento_Shipping
 "Shipment History","Delivery History",module,Magento_Shipping
-"Qty Shipped","Qty Dispatched",module,Magento_Shipping
+"Qty Shipped","Qty Despatched",module,Magento_Shipping
 "Print All Shipments","Print All Deliveries",module,Magento_Shipping
 "Shipment #","Delivery #",module,Magento_Shipping
 "Print Shipment","Print Delivery",module,Magento_Shipping
@@ -373,7 +373,7 @@
 "Shipping Methods","Delivery Methods",module,Magento_Shipping
 "Track All Shipments","Track All Deliveries",module,Magento_Shipping
 "You sent the shipment.","You sent the delivery.",module,Magento_Shipping
-"Shipped or billed on:","Dispatched or billed on:",module,Magento_Shipping
+"Shipped or billed on:","Despatched or billed on:",module,Magento_Shipping
 "Shipping labels can't be created. Verify that the store information and settings are complete and try again.","Delivery labels can't be created. Verify that the store information and settings are complete and try again.",module,Magento_Shipping
 "For Multishipping","For Multi-delivery",module,Magento_Support
 "Shipping Methods","Delivery Methods",module,Magento_Support
